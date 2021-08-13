@@ -14,16 +14,16 @@ This Repository is where I backup my vim configuration files( .vimrc, .vim/)
 clone with HTTPS
 
 ```bash
-$ git clone https://github.com/ChiaYu-Chiang/my-vim-config.git
+git clone https://github.com/ChiaYu-Chiang/my-vim-config.git
 ```
 
 
 #### 2. Move everything to home directory
 
 ```bash
-$ cd my-vim-config/
-$ mv .vimrc ~/
-$ mv .vim/ ~/
+cd my-vim-config/
+mv .vimrc ~/
+mv .vim/ ~/
 ```
 
 
