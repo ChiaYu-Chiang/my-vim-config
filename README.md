@@ -11,6 +11,12 @@ This Repository is where I backup my vim configuration files( .vimrc, .vim/)
 
 #### 1. Clone my repository
 
+clone with SSH
+
+```bash
+git clone git@github.com/ChiaYu-Chiang/my-vim-config.git
+```
+
 clone with HTTPS
 
 ```bash
@@ -31,4 +37,8 @@ mv .vim/ ~/
 
 #####  Check the status of plugins
 
-Reload .vimrc and `:PlugStatus` to check plugins.
+Reload .vimrc and `:PlugUpdate` to install/update plugins.
+
+Then `:PlugStatus` to check the status of plugins.
+
+##### If all shows `Ok` , congratulations, the setup process ends here.
