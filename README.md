@@ -67,4 +67,4 @@ cd ~/.vim/plugged/YouCompleteMe/
 python3 install.py --all
 ```
 
-#### That's it! See you next time!
+#### That's it! See you next time.
